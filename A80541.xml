@@ -1,0 +1,882 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copie of tvvo vvritings sent to the Parliament. The one intituled motions for reforming of the Church of England in this present Parliament: most taken out of Irenaus Philadelphus. The other a humble petition unto the Parliament, for reforming of the Church of England: all taken out of the holy Scriptures.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80541</idno>
+            <idno type="STC">Wing C6235</idno>
+            <idno type="STC">Thomason E238_12</idno>
+            <idno type="STC">ESTC R2679</idno>
+            <idno type="EEBO-CITATION">99872140</idno>
+            <idno type="PROQUEST">99872140</idno>
+            <idno type="VID">124564</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80541)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124564)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 41:E238[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copie of tvvo vvritings sent to the Parliament. The one intituled motions for reforming of the Church of England in this present Parliament: most taken out of Irenaus Philadelphus. The other a humble petition unto the Parliament, for reforming of the Church of England: all taken out of the holy Scriptures.</title>
+                  <author>Du Moulin, Lewis, 1606-1680. Motions for reforming the Church of England in this present Parliament.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Amsterdam :</pubPlace>
+                  <date>Printed in the yeare MDC. XLI. [1641]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-D² .</note>
+                  <note>Annotation on Thomason copy: "Amsterdam".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Church of England --  Early works to 1800.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Religion --  17th century --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124564:1" rendition="simple:additions"/>
+            <p>A COPIE <hi>Of tvvo vvritings ſent to the</hi> PARLIAMENT. <hi>The one intituled</hi> Motions for reforming of the Church of England in this preſent PARLIAMENT: <hi>Moſt taken out of Irenaeus Philadelphus.</hi> THE OTHER A Humble PETITION unto the PARLIAMENT, for reforming of the Church of England: All taken out of the holy Scriptures.</p>
+            <q>
+               <bibl>
+                  <hi>NEHEMIAH 13.14.</hi>
+               </bibl>
+               <p>Remember mee, O my God, concerning this, and wipe not out my good deeds that I have done for the Houſe of my God, and for the Offices thereof.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>PSAL.</hi> 137, 8, 9.</bibl>
+               <p>O <hi>Daughter</hi> of Babylon, who art to be deſtroyed: Bleſſed ſhall he be that repayeth unto thee thy reward, which thou haſt rewarded unto us.</p>
+               <p>O bleſſed ſhall he be, that taketh and daſheth in-peeces thy Babe againſt the Rock.</p>
+            </q>
+            <p>
+               <hi>Printed in the Yeare</hi> MDC.XLI.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:124564:2"/>
+            <pb facs="tcp:124564:2"/>
+            <head>The humbly Supplication of ſundry of his Maiesties Faith<g ref="char:EOLhyphen"/>full Subiects, who have now along time beene constrained to live as exiles abroad, or to endure other greevious Perſecutions at home, for bearing witnes to the truth of Christ, against the corruptions of <hi>Antichriſt,</hi> yet remaining in the <hi>Church of England.</hi>
+            </head>
+            <opener>
+               <salute>To the Honourable and High Court of <hi>Parliament:</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">C</seg>Raving pardon upon our knees for our boldneſſe, wee moſt humbly beſeech you to heare us a little with pa<g ref="char:EOLhyphen"/>tience.</p>
+            <p>What DAVID ſpoke in his owne defence, when his elder brother charged him with <hi>Pride &amp; haughtineſse of heart:</hi>
+               <note place="margin">1 <hi>Sam.</hi> 17 28,</note> Is our anſwer now unto all ſuch as ſhall lay upon us the like accuſation: <hi>vvhat have we now done? Js there not a cauſe?</hi> Sundry CAUSES there are which have moved us in all duetifull manner to become inſtant ſuters to his Highneſſe, and to you in the Cauſe of <hi>Jeſus Christ.</hi>
+            </p>
+            <p n="1">1.<note place="margin">
+                  <hi>1:</hi> Cauſe of our Peti<g ref="char:EOLhyphen"/>tion.</note> The great hope which his Majeſtie hath given of much good to bee done through the mercy of God, by your meanes in Church and Common<g ref="char:EOLhyphen"/>wealth.</p>
+            <p n="2">2. We take our ſelves bound in conſcience to ſpeake at this preſent: Fearing leaſt otherwiſe through our ſilence,<note place="margin">2: <hi>Cauſe.</hi>
+               </note> the <hi>Motions</hi> which ſome have made, might prove hurtfull and perilous both to Church and State. How farre the <hi>Motioners</hi> are from ſpeaking <hi>according to the law &amp; to the testimonie,</hi> and ſeeking to have things reformed in the <hi>Church of England,</hi>
+               <note place="margin">
+                  <hi>Eſa:</hi> 8, 20</note> agreeable to the <hi>Patterne of the new Testament.</hi> We ſhall ſhew in our next Petition. Onely two things we deſire, may be here conſidered, as be<g ref="char:EOLhyphen"/>ing the ſpeciall drift and maine of their <hi>Motions.</hi> Firſt, in the whole there is much <hi>ſelf-ſeeking:</hi> For to what end is it motioned to have the <hi>Pariſh-ministers</hi> raiſed up to an equall height (as it were) of power and authoritie with the <hi>Bishops?</hi> But that they and the Biſhops together (keeping from the people their Rights and Liberties in the Goſpell) may equally LORD it, and doe what they pleaſe, without controll. But our hope is that the PARLIAMENT,<note place="margin">
+                  <hi>Pſal:</hi> 122.8.</note> beeing men in whome the Lord hath putt wiſdome and underſtanding, will for <hi>their Brethren and Companions ſake,</hi> yea and for their owne ſoules ſake too, prudently foreſee the evill, and prevent the <hi>Motion,</hi> and not put authoritie into their hands, who wilbe (if they have it) as great perſecutors of the Saints, as the Prelates formerly have beene; and ſo inſtead of one <hi>Lordly and Domineering Biſhop</hi> in a Dioceſſe, we ſhall then have one in every Pariſh, &amp; in ſome more, to oppreſſe &amp; ſuppreſſe all ſuch as walke up to their light, more cloſely and conſcionably in all Gods wayes then themſelves: We know what we ſpeake, and wee ſpeake no more then what we have had wofull experience off, and can make good by proofe.</p>
+            <pb facs="tcp:124564:3"/>
+            <p>The next is their mixing of Heaven &amp; Earth together: <hi>Motioning for a diſcipline,</hi> which is a very hotchpotch, a gallemowfry; compounded of <hi>Epiſ<g ref="char:EOLhyphen"/>copie, Presbyterie, and Poperie,</hi> thinking (in likelyhood) to pleaſe all ſides, by framing (like the <hi>Samaritants</hi>) a worſhip of ſundrie religions. But the Lord ſees their halting,<note place="margin">
+                  <hi>Mal.</hi> 1, 14.</note> and will one day reward them for it, in their owne bo<g ref="char:EOLhyphen"/>ſome as they have deſerved. <hi>Curſed is the deceiver, which hath in his flock a male, and voweth and ſacrificeth unto the Lord a corrupt thing.</hi>
+            </p>
+            <p>
+               <note place="margin">3. <hi>Cauſe.</hi>
+               </note>A third CAUSE moving us to Petition, is in regard of you who are our PARLIAMENT-MEN, What <hi>Paul</hi> ſaid to <hi>Agrippa,</hi> we ſay to you; wee thinke our ſelves happie, becauſe we ſhall anſwer for our ſelves this day before you, whom we know to be expert in all cuſtomes and queſtions that are amongſt us. In what a forlorne and deſperate State our Kingdome was come unto, before you came together, wee are all very ſenceable off. And howſoever many true Cauſes thereof, have beene already diſcovered by your deepe wiſdome and diligence: Notwithſtanding give us leave to adde this unto the reſt: That becauſe the glorious Scepter of the Lord Ieſus, hath not beene hitherto advanced in our Land as it ſhould have been; our bleſſings have beene the fewer,<note place="margin">1 <hi>Sam.</hi> 2, 30.</note> and our croſſes the more. <hi>Them that honour mee</hi> (ſaith the Lord) <hi>I will honour; and them that deſpiſe mee ſhall be ligh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly eſteemed.</hi>
+            </p>
+            <p>And how farre it ſhall pleaſe God to goe forth now in the worke of re<g ref="char:EOLhyphen"/>formation by you, wee know not; But this we know, if you altogether hold your peace at this time, yet ſhall enlargement and deliverance ariſe unto the Kingdome of Chriſt from ſome other place. And truely juſt it wilbe with the Lord, to purge away ſuch droſſe &amp; filth of the <hi>ſcarlet whore,</hi> with the blood of the Nation, which through your neglect ſhalbe left in the Land.<note place="margin">
+                  <hi>Zach.</hi> 1, 14. <hi>Pſal.</hi> 2.</note> 
+               <hi>For thus ſaith the Lord of Hoſtes, I am jealous for Ieruſalem and for Sion with great jealouſie;</hi> and the Nations which will not <hi>kiſſe the Sonne,</hi> and come under the ſweete and eaſie Yoake of the Goſpell, hee will breake them in peeces with a red of Iron. Oh that you would looke but to for<g ref="char:EOLhyphen"/>mer PARLIAMENTS, and conſider how their <hi>Statutes and Acts</hi> made about Religion, have occaſioned afterwards ſore troubles in the Land. And why? But becauſe they were not made conformable to the will and Teſtament of Ieſus Chriſt. And what better ſucceſſe may we now expect, unleſſe looking beyond <hi>State Policie,</hi> and carnall reaſon, there be a full cloſing with God in the truths of the Goſpell.<note place="margin">
+                  <hi>Prov.</hi> 21, 30.</note> 
+               <hi>There is no wiſdome, nor underſtanding, nor Counſell againſt the Lord.</hi>
+            </p>
+            <p>We therefore before God and the Lord Ieſus Chriſt, and the elect An<g ref="char:EOLhyphen"/>gels, beſeech you to mind the neceſſity of a right and full reformation. For if your care and ſtrivings tend this way, <hi>then ſhall the Earth yeeld her increaſe, and God, even our God, ſhall bleſſe us.</hi>
+            </p>
+            <p>
+               <note place="margin">4: <hi>Cauſe.</hi>
+               </note>Our 4. and laſt CAUSE of Petitioning, is, <hi>for Sions ſake the Mount of the Lords holineſſe, and the place where his Honour dwelleth.</hi> That which we de<g ref="char:EOLhyphen"/>ſire herein, is, that remouing the <hi>Hierarchy and deviſed Leiturgie,</hi> Chriſt true <hi>Miniſterie, Worſhip,</hi> &amp; <hi>Government,</hi> may be by <hi>Act</hi> eſtabliſhed. But if
+<pb facs="tcp:124564:3"/> it be doutfull to you whether our requeſt be lawfull. Then our humble ſupplication is that it will pleaſe his majeſtie and the PARLIAMENT to have the difference on both ſides tried and examined. as either that our Propoſi<g ref="char:EOLhyphen"/>tions and reaſons may be given to our oppoſites to anſwer, and their argu<g ref="char:EOLhyphen"/>ments (if they will ſet down any) to us, to anſwer by the word of God. Or that a conference may be had in writing, &amp; the queſtions being firſt agreed vpon, and the arguments and anſwers adviſedly ſet downe till both parties have fully ſayd, (laying aſide all by-matters) and ſo the whole exhibited to the PARLIAMEMT, to judg off. Or any other courſe which by <hi>you</hi> ſhall be thought meeteſt, for the finding out of the truth by the ſacred Scriptures.</p>
+            <p>And if this may not be granted us, then our laſt requeſt is, for our returne out of exile, and releaſement out of bands, and that we may be ſuffered in peace under his majeſtiss government within his dominions (which we had rather then under any other whatſoever) to walke in the fayth of the Goſ<g ref="char:EOLhyphen"/>pell, according to the teſtimony of Chriſt: we carying our ſelves in all loy<g ref="char:EOLhyphen"/>altie peace &amp; godlines as becometh the faithfull ſubjects of the Lord. And this we hope will not be denyed, ſeeing ſtrangers are ſuffered which differ (as well as we) from the Hierarchy &amp; worſhip there eſtabliſhed, we being his majeſties naturall ſubjects.</p>
+            <p>But howſoever it be, wee wil not ceaſe to pray for you. And that the Lord wilbe favourable to the land, and take away his wrath from it.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="petition">
+               <head>
+                  <hi>Motions for Reforming</hi> of the Church of England in this preſent PARLIAMENT: moſt taken out of <hi>Irenaeus</hi>
+                  <note n="a" place="margin">Quae. <hi>1,</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ether <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>renaeus be a fitt man to be fol<g ref="char:EOLhyphen"/>lowed in the point of diſci<g ref="char:EOLhyphen"/>pline; ſee<g ref="char:EOLhyphen"/>ing none of the Fa<g ref="char:EOLhyphen"/>thers in his time <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rote <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> more cor<g ref="char:EOLhyphen"/>ruptly in the thing then hee.</note> 
+                  <hi>Philadelphus.</hi>
+               </head>
+               <head type="sub">MOTIONERS.</head>
+               <p n="1">
+                  <hi>1. THat</hi> ſince the firſt reformati<g ref="char:EOLhyphen"/>on in <hi>King Edwards</hi> dayes was rather of the doctrine the of the diſcipline, and of the rites that were palpable groſſe, which yet were retayned with a purpoſe they ſhould be removed afterwards, and for to un<g ref="char:EOLunhyphen"/>looſe by degrees the faſt hold to the <hi>Romiſh Church:</hi> now ſince every Proteſtant is well informed of the change made in religion, that what<g ref="char:EOLhyphen"/>ſoever in the religion or tending to the diſturbing of the peace of the Church and the maintayning of hereticall doctrines be redreſſed.</p>
+               <pb facs="tcp:124564:4"/>
+               <p n="2">
+                  <hi>2.</hi> That in that great worke of Reformation, which is of moment and conſequence farre beyond the ſetling of civill affaires, there bee ap<g ref="char:EOLhyphen"/>pointed by both the Houſes a Com<g ref="char:EOLhyphen"/>mittee or Convocation, or meeting of <hi>40</hi> or <hi>50</hi> Engliſh Divines; Men that were not of the late Convocation, and ſuch as be unpartiall, learned, and uncorrupt in their lives and Doctrines, ſuch as Dr. <g ref="char:V">Ʋ</g>ſher, Arch. B. of Armach, Dr. Williams<note n="a" place="margin">Quae. <hi>2,</hi> Archb. &amp; Bb. and men con<g ref="char:EOLhyphen"/>formable to the Po<g ref="char:EOLhyphen"/>pish Cere<g ref="char:EOLhyphen"/>monies be fit to have ſpeciall hand in framing a ſetled platforme of Church govern<g ref="char:EOLhyphen"/>ment.</note> B. of Lincolne, Dr. Precheaux, Dr. Twiſſe, and the like. With <hi>10</hi> Scots Divines, to which be called <hi>8</hi> Forraine Divines, of the moſt lear<g ref="char:EOLhyphen"/>ned and famous, Such as Rivetus, Primroſe, Moulin, and the like, who may treat and agree upon a ſetled plat-forme of Church Government,, ſutable to the Monarchy of Great Brittaine, which ought to be ratified and enacted by Parliament.</p>
+               <p n="3">
+                  <hi>3.</hi> That the Churches Diſci<g ref="char:EOLhyphen"/>pline being eſtabliſhed, a Nationall Synod be convocate that may frame a Confeſſion of Faith, and reforme if need be<note n="b" place="margin">Quae. <hi>3,</hi> whether ſuch as doubt, whe<g ref="char:EOLunhyphen"/>ther it be needfull to have the English Letturgie reformed, be not cor<g ref="char:EOLhyphen"/>rupt men, &amp; unfit to motion for reformatio<g ref="char:cmbAbbrStroke">̄</g>
+                  </note> the Engliſh Leiturgie, that without exception it bee received through out the K. Dominions; to which Synod may be called a compe<g ref="char:EOLhyphen"/>tent number of Forraine Divines.
+<pb facs="tcp:124564:4"/> However, ſince ſo many have beene ſo earneſt of late to bee in Charity with the Romane Church, that they have beene uncharitable to the Re<g ref="char:EOLhyphen"/>formed Churches.</p>
+               <p>Let Cannons be made in the Sy<g ref="char:EOLhyphen"/>nod, and an act of Parliament for <g ref="char:V">Ʋ</g>nion with other Proteſtant Churches in matter of Doctrine. And all the fire-brands of theſe late innovations in the Church, that have made us a laughing ſtocke to the neighbour-Churches, be ſharply cen<g ref="char:EOLhyphen"/>ſured, if not cutt of as banes of the Church; Eſpecially the firſt rayſers of Altars. Such as Heylen, Pock<g ref="char:EOLhyphen"/>lington, and the like.<note n="a)" place="margin">Qu <hi>4,</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hether <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ting <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>em <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rke, de<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ot m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eater <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ith<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ent.</note>
+               </p>
+               <p n="4">
+                  <hi>4.</hi> That the pleaſures of our late Soveraigne King <hi>Iames,</hi> of bleſ<g ref="char:EOLhyphen"/>ſed memorie, be executed, who ſent his Divines to the Synod of Dort. That the Church of England after<g ref="char:EOLhyphen"/>wards ſhould be bound by the deciſi<g ref="char:EOLhyphen"/>ons made there, and that Cannons be made conformable to the determina<g ref="char:EOLhyphen"/>tions of the Divines in that Sinod.</p>
+               <pb facs="tcp:124564:5"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:124564:5"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:124564:6"/>
+               <p n="5">
+                  <hi>5.</hi> If Biſhops be retayned<note n="(a)" place="margin">Quae. <hi>5</hi> whether men wish<g ref="char:EOLhyphen"/>ing the Bb. to be retained, are not herein enemies to the State, and ſeeke to hinder re<g ref="char:EOLhyphen"/>formation</note> (as it is to be wiſhed) ther be no more diſtance between a Biſhopp and an ordi<g ref="char:EOLhyphen"/>nary miniſter; &amp; that Biſhops be no more called Lords, &amp; that they be en<g ref="char:EOLhyphen"/>joyned to preach dilligently as the du<g ref="char:EOLhyphen"/>ty of their place and office is.</p>
+               <p n="6">
+                  <hi>6.</hi> That if ſome ſit in <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> It muſt be upon woll Sackes and have no more priveledge by their office, and places then the Iudges the Lord Keepers &amp; Treaſurers, &amp; that a certayn number of deputies from the national Sinod,<note n="b" place="margin">Quae. <hi>6,</hi> vvhether miniſters more then other pri<g ref="char:EOLhyphen"/>vate men, ought to have ei<g ref="char:EOLhyphen"/>ther place or voyce in Parlia<g ref="char:EOLhyphen"/>ment.</note> whether Biſhops or others be aſſiſting both in the higher and the lower houſe, for delivering their adviſes vpon any clawes of acts that may entrench upon the Chur<g ref="char:EOLhyphen"/>ches priuiledges, or are contrary to doctrine or good manners.</p>
+               <p n="7">
+                  <hi>7:</hi> That the principall defect of our dicipline and the ſpring of all er<g ref="char:EOLhyphen"/>rors in doctrin and practiſe which is the want of Synods, be amended, and herafter all viſſitations of Biſhops be Synods, as by right they ought to bee and according to the Antient conſti<g ref="char:EOLhyphen"/>tutions: as it appeareth by the<note n="c" place="margin">Quae. <hi>7.</hi> Whether Ministers in the A<g ref="char:EOLhyphen"/>poſtles time uſed to pay any ſuch thing.</note> Syno<g ref="char:EOLhyphen"/>dals which miniſters pay at euery vi<g ref="char:EOLhyphen"/>ſitation, and that at Synods al Pariſh miniſters, be ſitting and covered and haue their voyce and the diſcuſſing of all the affaires of the dioſeſſe, and
+<pb facs="tcp:124564:6"/> making orders which may not after<g ref="char:EOLhyphen"/>wards be altered by the Biſhops, but only by the nationall Metropoliticall Synods, which for the the publick v<g ref="char:EOLhyphen"/>nion; is to be kept once every two yeares, neither was the Church of la<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> without Synods but in ENG<g ref="char:EOLhyphen"/>LAND.<note n="a" place="margin">Quae. <hi>8.</hi> Whither Synods as <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> are <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w, have <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n any <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>here but <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſince the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>poſtles <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</note>
+               </p>
+               <p n="8">
+                  <hi>8.</hi> That Biſhops be Cenſurable by the Synod whether it be provin<g ref="char:EOLhyphen"/>tiall or nationall.<note n="b" place="margin">Quae. <hi>9.</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f the me<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s of a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tionall provin<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l Synod corrupt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ke Ca<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> a<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>inſt the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ith, who <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> cen<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re them <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r it.</note>
+               </p>
+               <p n="9">
+                  <hi>9.</hi> That an other courſe be taken for maintaining ministers and Biſh: then that by tythes,<note n="c" place="margin">Qu. <hi>10.</hi> Whether it <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>more <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ceſſary, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>at there <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t ſome <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rſe ta<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to have <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>full &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d mini<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rs, then <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tena<g ref="char:cmbAbbrStroke">̄</g>ce <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he un<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>full &amp; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</note> which ſtill cau<g ref="char:EOLhyphen"/>ſeth ſuites between the pariſhers and miniſters, the patron and incumbent keepes the miniſter from his Church
+<pb facs="tcp:124564:7"/> while he followes ſute to London.</p>
+               <p>And bring the holy miniſters in<g ref="char:EOLhyphen"/>to obloquie and contempe, but an ho<g ref="char:EOLhyphen"/>norable Competent proportion, be appointed for the maintaining of each pariſh. Miniſter by the pariſhi<g ref="char:EOLhyphen"/>oners, &amp; rated by the Parliament or Synod. And that the diſtinction of Deanes, Archdeacons, Parſons, Curates, <g ref="char:V">Ʋ</g>icars, and Readers, be taken away, but let them be co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>q<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ls and more or leſſe in number in one pariſh, according to the greatnes or wealth of the parriſh.</p>
+               <p n="10">
+                  <hi>10.</hi> That as Biſhops in height of Iuriſdiction and place by act are to be ſhortned, ſo an act be made from henceforth that all ordinary miniſters which are too much villified,<note n="d" place="margin">Quae. <hi>11</hi> Whither many of the ordi<g ref="char:EOLhyphen"/>nary Mi<g ref="char:EOLhyphen"/>niſters, are not ſo vile as that there is no honour nor reſpect due to them.</note> ſhall have more reſpect and honour then heretofore given to them, and that the miniſters ſons be preferred to the fellowſhip of Colleges</p>
+               <pb facs="tcp:124564:7"/>
+               <p n="11">
+                  <hi>11</hi> That the power<note n="e" place="margin">Qu. <hi>12.</hi> Whither it <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e not meet <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hat they ſhould firſt ſhew by whoſe au<g ref="char:EOLhyphen"/>thority the keys belong unto th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m before the Parliame<g ref="char:cmbAbbrStroke">̄</g>t do grant ſuch a thing.</note> of the eccle<g ref="char:EOLhyphen"/>ſiaſticall keyes ſuch as belongs to the Biſhops and miniſters be reſtored to them according to the ancient conſti<g ref="char:EOLhyphen"/>tutions of the primitiue Churches, &amp; that there be no Cenſure paſt upon the Cleargy or people from Synods, Bi<g ref="char:EOLhyphen"/>ſhops or p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſbiteryes, but ſuch as is ſpiritual, &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat vſual penalty of im<g ref="char:EOLhyphen"/>priſonment &amp; fines be rendred again to be righ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> owner, viz: to the C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vill M giſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ate, and the abuſe of ex<g ref="char:EOLhyphen"/>communications and the Oath <hi>Ex-Officio</hi> aboliſhed.<note n="f" place="margin">Qu. <hi>13.</hi> W<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>her other abu<g ref="char:EOLhyphen"/>ſes as vile a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> theſe ſhould not be aboli<g ref="char:EOLhyphen"/>ſhed alſo.</note>
+               </p>
+               <p n="12">
+                  <note n="g" place="margin">Qu. <hi>14</hi> Whither it be not bet<g ref="char:EOLhyphen"/>ter that the Parlia<g ref="char:EOLhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g>t ſhould preſent to the King, all the Bi<g ref="char:EOLhyphen"/>ſhopricks in the land, &amp; he take them into his owne hands.</note>
+                  <hi>12</hi> That the Cleargie of the Dio<g ref="char:EOLhyphen"/>ceſſe ſhall chooſe their own biſhops, or preſent to the Kings Majeſty two, who may chooſe of them whom he pleaſeth, and that every pariſh be pa<g ref="char:EOLhyphen"/>tron of us pariſh, &amp; haue the preſen<g ref="char:EOLhyphen"/>tations of as many miniſters as the floocke requireth, to the Synod or Biſhop.</p>
+               <pb facs="tcp:124564:8"/>
+               <p n="13">
+                  <hi>13.</hi> That inſteed of chancellours Officials, Apparators, Regiſtors, and ſuch like graſhoppers, there be ſome<note n="h" place="margin">Qu. <hi>15.</hi> Whither it be not fit that theſe Motioners do prove the thing to be law<g ref="char:EOLhyphen"/>ful, before the Parli<g ref="char:EOLhyphen"/>ament doe grant it.</note> lay Elders that may ſit in provintial Synods, and have their voyce in mat<g ref="char:EOLhyphen"/>ter of Diſcipline &amp; Church govern<g ref="char:EOLhyphen"/>ment, and that in a nationall Synod: there be ſome Lay-men likewiſe ap<g ref="char:EOLhyphen"/>pointed by the Parliament.</p>
+               <p n="14">
+                  <hi>14.</hi> That a better courſe be ta<g ref="char:EOLhyphen"/>ken for the providing for the poor, &amp; that both miniſters<note n="i" place="margin">Qu. <hi>16.</hi> Whither their moti<g ref="char:EOLhyphen"/>on be not gainst the Word of God, <hi>Act. 6.2.4.</hi>
+                  </note> &amp; the chiefe of the Pariſh ſhall overſee how Church-wardens do diſpoſe of the Churches Treaſury, &amp; that they be not permit<g ref="char:EOLhyphen"/>ted under crime of Sacriledg to ſpend it upon themſelues, &amp; that every mo<g ref="char:EOLhyphen"/>neth they give account of whatſoever is received and layd out.</p>
+               <pb facs="tcp:124564:8"/>
+               <p n="15">
+                  <note place="margin">Quae. <hi>17.</hi> Whither it <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e imagi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>able that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y Mini<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ters, if <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>alled of God, as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>as <hi>Aa<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>on,</hi> would propound <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o raine a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hing to a Parliame<g ref="char:cmbAbbrStroke">̄</g>t</note>
+                  <hi>15.</hi> That the griping of Church duties and buriall Coſts, exacted oft<g ref="char:EOLhyphen"/>ner more rigerouſly of the poore then the rich, be reſtrained, and that the miniſters be contented with his year<g ref="char:EOLhyphen"/>ly ſallary, performing al the branches of his Calling, as Baptiſme, Burying viſiting the ſick, without any further recompenſe but ſuch as is tendered to him.</p>
+               <p n="16">
+                  <note place="margin">Quae. <hi>18.</hi> Who muſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>reſent the Pariſh Minister, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f he be a delinquent <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> moſt are</note>
+                  <hi>16.</hi> That hereafter none be cited by the Synod Preſbitery or ſpirituall Court, without the knowledge of the pariſh miniſter, who ought to preſent the delinquent &amp; haue his voyce in the Cenſure.</p>
+               <pb facs="tcp:124564:9"/>
+               <p n="17">
+                  <note place="margin">Quae. <hi>19.</hi> Whither it bee meet that ſuch men as complaine againſt the rigour of Bb. ſhould be ſuffered to impoſe what they pleaſe up<g ref="char:EOLhyphen"/>on others.</note>
+                  <hi>17.</hi> That it be not more in the power of Biſhops to impoſe what they pleaſe upon the Cleargie, with ſuch Rigurous penalties as they haue late<g ref="char:EOLhyphen"/>ly uſed for the oath of the ſixt Can<g ref="char:EOLhyphen"/>non.</p>
+               <p n="18">
+                  <hi>18.</hi> That the fountaines of lear<g ref="char:EOLhyphen"/>ning, Cambridg and Oxford be pur<g ref="char:EOLhyphen"/>ged from ſuperſtitious rites and Po<g ref="char:EOLhyphen"/>piſh Doctrines; and Orthodox Rea<g ref="char:EOLhyphen"/>ders be provided.</p>
+            </div>
+            <div type="petition">
+               <head>A humble Petition vnto the <hi>PARLIAMENT,</hi> for the Reforming of the Church of England: all taken out of the holy Scriptures.</head>
+               <head type="sub">PETITIONERS,</head>
+               <p n="1">1. HOwſoever it cannot be denied, but ſome things in <hi>King Ed<g ref="char:EOLhyphen"/>wards</hi> days were wel reformed. Nevertheles many groſſe corruptions were ſtill retayned, both in the <hi>Church-lyturgy, diſcipline, miniſtery,</hi> and the ve<g ref="char:EOLhyphen"/>ry <hi>conſtitution of the Church it ſelfe.</hi> The which errors and evils haue been by ſun dry learned<note n="(a)" place="margin">Cart<g ref="char:EOLhyphen"/>wright, Bright<g ref="char:EOLhyphen"/>man, Parker, <g ref="char:V">Ʋ</g>dal, Baines, Bates, Gilbie. Fen<g ref="char:EOLunhyphen"/>ner, Ames Baſtwick, Laiton, &amp; others.</note> and Godly men ſo plain<g ref="char:EOLhyphen"/>ly diſcovered, as that every ſincere pro<g ref="char:EOLhyphen"/>feſſour of the goſpell, is now fully in<g ref="char:EOLhyphen"/>formed of the neceſſity of a chang: And are humble PETITIONERS that whatſoever ſhall appeare to be anti<g ref="char:EOLhyphen"/>chriſtian and unlawfull, may by thus
+<pb facs="tcp:124564:4"/> preſent <hi>Parliament,</hi> be ſuppreſſed, and the <hi>ordinances of the Goſpell</hi> ſet up, to the honour of Ieſus Chriſt, &amp; the perpetuall peace both of Church and common wealth.</p>
+               <p n="2">2. whereas Ieſus Chriſt Lord and King of his Church, hath ſet down vnto us in the new teſtament <hi>a ſetled platform of Church governm:</hi>
+                  <note n="(b)" place="margin">
+                     <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 18, 15, 16, <hi>Eph.</hi> 11, 12, <hi>Hebr.</hi> 3, 2, 3, 4, 1 <hi>Tim.</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 15, <hi>Eſa.</hi> 9, <hi>Act.</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 40.</note> which is unchang<g ref="char:EOLhyphen"/>able, beſt, perpetuall and common to all Churches,<note n="c" place="margin">
+                     <hi>Mat.</hi> 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 18, 20, 1 <hi>Tim.</hi> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 16, <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 1, 3, <hi>G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 1, 8, 9, <hi>Iud.</hi> 3, <hi>Rev.</hi> 14, 9 12, <hi>&amp;</hi> 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 18, 19.</note> and to which all churches and people muſt be ſubject, and not to any other deviſed by man whatſoever: And in this reſpect <hi>ſuteable</hi> (howſoever ſome otherwiſe vntruly inſinuate) <hi>to the Monarchy of great Brittain,</hi> and to all kinds of Civill eſtates in the world. It is therefore againe deſired, that the ſame be ratified and enacted by this preſent <hi>Parliament.</hi>
+               </p>
+               <p>But if it be thought fit by <hi>both houſes that there ſhalbe a committee or convocation and meeting of ſome divines</hi> to treat of the thing: Then our requeſt is, that ſome zealous and godly miniſters who have bee<g ref="char:cmbAbbrStroke">̄</g> forced to fly out of the Realm, by reaſon of the Prelates perſecution, may be called home. Such as are known to be impartiall learned and vncorrupt in life and doctrine. Men that haue not maintayned the open profanation of the Lords day, neither are ignorant or unſound in the point of <hi>Church govern<g ref="char:EOLhyphen"/>ment,</hi> as are our <hi>poopiſhly ceremonious</hi> di<g ref="char:EOLhyphen"/>vines,</p>
+               <p n="3">3. We hould that there is not onlye need, but that it is of abſolute neceſſity, that the <hi>Engliſh Liturgy</hi> be taken away becaus the ſame is <hi>a deviſed ſervice</hi>
+                  <note n="d" place="margin">
+                     <hi>Ex:</hi> 20 4, 5, <hi>Ioh.</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 24, <hi>Rom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 8, 26, 27<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Iud.</hi> 24, <hi>Mal.</hi> 1, 14. <hi>Col.</hi> 2.8, 27, <hi>Gal.</hi> 3, 18.</note>. <hi>Ro<g ref="char:EOLunhyphen"/>miſh ſtuffe</hi> &amp; termed by <hi>King Iames</hi> the <hi>Engliſh Maſſe,</hi> and fitly ſo becauſe it was culled and wicked out of the popiſh danghill, the <hi>por<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>is</hi> &amp; vile <hi>Maſſe Booke</hi> full of all abominations; and peaced and
+<pb facs="tcp:124564:4"/> patched together without reaſon or or<g ref="char:EOLhyphen"/>der of edefication.</p>
+               <p>And this being aboliſhed, our further requeſt is, that this preſent PARLIA<g ref="char:EOLhyphen"/>MENT will take ſuch order as that no ſtinted or deviſed formes of prayer be by any <hi>nationall Sinod</hi> impoſed (ſpe<g ref="char:EOLhyphen"/>cially upon the miniſters of the Goſpel) in any part of the Kings Dominions: but as the Lord hath furniſhed them with ſpiritual gifts<note n="a" place="margin">
+                     <hi>Act.</hi> 1, 24, 28, 1 <hi>Theſ.</hi> 5, 17, <hi>Rom.</hi> 8, 26, 27, 1 <hi>Tim.</hi> 7, 17, <hi>Neh.</hi> 2, 4, <hi>Exo:</hi> 14, 15, 1 <hi>Pet.</hi> 2, 5</note>, even ſo according to their preſent need and occaſions; they may have their freedome alwayes to pray in the ſpirit, through the helpe of the holy Ghoſt. For if it had ſeemed good to the Apoſtles the laſt Pen-men of the holy Scriptures that any ſtinted formes or number of words ſhould be repeated or read out of a prayer booke, they would certainly haue giuen com<g ref="char:EOLhyphen"/>mandement for the practiſe thereof but we find no <hi>preſcript Liturgy</hi> in their wri<g ref="char:EOLhyphen"/>tings nor had the primitiue churches any ſuch thing, what ever the Iewes fa<g ref="char:EOLhyphen"/>ble of <hi>Ezra</hi> and the <hi>Papiſts</hi> of <hi>St. Iames</hi> and <hi>St. Peter.</hi>
+               </p>
+               <p>And as we like it well, that this PARLIAMENT ſhould ſeeke for union with other Proteſtant Churches in matters of true doctrine; ſo alſo to accord with them in all acts of their lawful diſcipline: and chiefly in this, that they doe not force and compel people to become members of the Church, but let every congregation conſiſt of a free and voluntary people, and as for ſuch as are pro<g ref="char:EOLhyphen"/>phane worldly and wicked, let them be kept out of the Church, untill they be called of God unto repentance and faith in his promiſe.</p>
+               <p n="4">4. Howſoever we agree unto the Articles of the <hi>Synod of Dort,</hi> in al points there treated and concluded againſt the <hi>Aruntians,</hi> yet we ſe not (by any war<g ref="char:EOLhyphen"/>rant from the word of God) that it is lawfull for the <hi>eccleſiaſticall officers</hi> of ma<g ref="char:EOLhyphen"/>ny churches to meet together, and by joynt authoritie to make conſtitutions and lawes and to impoſe them upon all churches.<note n="b" place="margin">1 <hi>Pet.</hi> 5 2, 3, 2 <hi>Col.</hi> 5, <hi>Iam.</hi> 3, 1, <hi>Rev.</hi> 14 9, 10, 11,</note>
+               </p>
+               <p>This tyranie and uſurpation we beſeech the <hi>Parliament</hi> to prevent, and not to grant any liberty to convocations or <hi>Synods</hi> to make <hi>Eccleſiaſticall Cannons</hi> for al <hi>Churches,</hi> but let every particular congregation (as a ſpecial prerogatiue wher<g ref="char:EOLhyphen"/>with
+<pb facs="tcp:124564:6"/> ſhee is indued by Chriſt) be free from ſuch bondag and burden.</p>
+               <p n="5">5. Howſoever ſome wiſh that Biſh<g ref="char:EOLhyphen"/>ops be retayned in their places, yet ſure we are, that this PARLIAMENT ſhall very much glorifie the ſonne of God, if as plants which the Father never plan<g ref="char:EOLhyphen"/>ted they now roote them up: For ſince the <hi>Prophets Apoſtles</hi> and Evangeliſts were taken away from this world, there are not any other lawfull Biſhops or Church-Governours then Biſhops or O-verſeers of particular Churches.<note n="a" place="margin">
+                     <hi>Act.</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 28, P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 1, 1.</note>
+               </p>
+               <p n="6">6. And ſeeing they are no Miniſters at all in the Church of God: but haue and do vſurpe the name and ſeate of the miniſterie. Their calling being Antichri<g ref="char:EOLhyphen"/>ſtian and contrary to the word of God,<note n="b" place="margin">2 <hi>T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 2, 3, 4<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 1 <hi>Pet.</hi> 1, 4, <hi>I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 22, 25 26, <hi>Ep<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 8, 11, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 13, <hi>R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 9, 3, <hi>&amp;</hi> 11, 17, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 14, 9, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> wee therefore moſt humbly beſeech this preſent PARLIAMENT: not onelie to take from them (as they juſtly deſerve) all Civill authority: but alſo to doe to them as our Saviour dealt (<hi>Ioh.</hi> 2.) in whipping out the buyers and ſellers and money-changer. For of a cer<g ref="char:EOLhyphen"/>tayntie, they might better come into the <hi>Temple,</hi> then any Metropolitan or Dioceſan Biſhopp into the Church of God: yea and had more neceſſary uſe, but they had abuſed holie things and made it a denne of theeues.</p>
+               <p n="7">7. The principall defect of diſcipline and the ſpring of all errours in doctrine and practice is not the want of <hi>Synods</hi> but rather of the knowledg of the Scrip<g ref="char:EOLhyphen"/>tures, For the teſtament of Chriſt ſhewes us no <hi>Provintiall, nationall, empe<g ref="char:EOLhyphen"/>riall and mother like Church</hi> having ſun<g ref="char:EOLhyphen"/>dry meetings or aſſemblies and ſpeciall Paſtors over the ſame. Neither hath Chriſt Ieſus ſubjected any Church or Congregation of his, to any other Supe<g ref="char:EOLhyphen"/>riour Eccleſiaſticall juriſdictinn then unto that which is with in it ſelfe: So
+<pb facs="tcp:124564:6"/> that if a whole Church or congregation ſhall erre in any matter of Faith and Religion, no other <hi>Convocations, Socie<g ref="char:EOLhyphen"/>ties, Combinations,</hi> or <hi>Aſſemblies</hi> what<g ref="char:EOLhyphen"/>ſoever have (by any Commandement from the Lord) power to cenſure, pu<g ref="char:EOLhyphen"/>niſh, or controll the ſame; but are onely to admoniſh them in a brotherly way, and ſo to leave them to the im<g ref="char:EOLhyphen"/>mediate judgement of Chriſt. For Biſhops therefore and Pariſh Mini<g ref="char:EOLhyphen"/>ſters to come together to diſcuſſe of the affaires of the <hi>Dioceſſe,</hi> make orders, and decide and determine among themſelves the caſes and controverſes of ſundry congregations. It is a practiſe which the <hi>Apoſtles</hi> never knew, <hi>Syon</hi> hath not heard of it, <hi>Ieruſalem</hi> which is aboue will not acknowledg it, but as it began with the oppreſſing the only lawfull politie of the Church, ſo the uſe of it hitherto hath been the cruelſt and moſt ambitious tiranny in the world. And therfore the Parliame<g ref="char:cmbAbbrStroke">̄</g>t is humbly deſired not to countenance ſo injurious &amp; vnjuſt a courſe: but to ſtand earneſtly zealous for the pretious liberty and priviledg of the Saints, the which Chriſt hath purchaſed for them with his owne blood.</p>
+               <p n="8">8. As the Scriptures<note n="a" place="margin">
+                     <hi>Act.</hi> 20 28. <hi>Rom.</hi> 12.8.7. <hi>Phil.</hi> 1.1.</note> acknowledge no other for lawful Biſhops, but ſuch on<g ref="char:EOLhyphen"/>ly as ſtand miniſters to ſome particular Congregation, ſo neither doe they ac<g ref="char:EOLhyphen"/>knowledge any Eccleſiaſticall cenſure rightly pronounced againſt them, unleſſe it be done by that Church, of which they are members,<note n="b" place="margin">
+                     <hi>Mat.</hi> 18 17.18. 1 <hi>Cor.</hi> 4.5.12.13. 2 <hi>Theſ.</hi> 3.6. <hi>with</hi> Lev. 24.14.15.16 23. <hi>Ioſh.</hi> 7 11.25.</note> and by which they were elected into Office.</p>
+               <p>As for <hi>depoſition, excommunicaton,</hi> and the like, done by Synods, whether Provinciall or Nationall, it is but of the Earth, newly deviſed, an addition, an inſtitution, an ordinance of Kings and Princes. And this needs muſt bee ſo, becauſe Chriſt hath not placed this power any other where, but in a true vi<g ref="char:EOLhyphen"/>ſible Church. Now there is no true viſible Church, but a particular Con<g ref="char:EOLhyphen"/>gregation, Company, or Aſſembly of men, ordinarily joyning together in the true Worſhip of God. As for other Convocations, Synods, Societies, Combinations, &amp;c. the Title of a viſible Church is improperly, and untruely attributed unto them. Of this judgement are our Engliſh beſt Divines.<note n="c" place="margin">
+                     <hi>D.</hi> Ames Eng. pu<g ref="char:EOLhyphen"/>ritne. Baines Dioceſ. <hi>p</hi> 12. repl. to <hi>Down.</hi> Offer for confe<g ref="char:EOLhyphen"/>rence, <hi>p.</hi> 2.</note>
+               </p>
+               <p n="9">9. The right courſe for the due maintainance of miniſters, is by the free and voluntary Contribution of the Church:<note n="d" place="margin">1 <hi>Cor.</hi> 9 7.14. Gal. 6.6. 1 Theſ. 5.13. 1 Tim. 5.15. with Pro. 3.9.10. Num. 18.8.32.</note> Not that <hi>Parliaments</hi> or <hi>Sy<g ref="char:EOLhyphen"/>nods</hi> ſhould impoſe any certaine rate or ſumme upon any man, how much hee
+<pb facs="tcp:124564:7"/> ſhould pay, but this is to be left unto the <hi>Church,</hi> for every one to give accor<g ref="char:EOLhyphen"/>ding to the bleſſing which hee hath re<g ref="char:EOLhyphen"/>ceived of the Lord. And ſo Chriſt hath ordained, that <hi>they which preach the Goſpell, ſhould live of the Goſpell,</hi> and not by <hi>Popiſh Lordſhips</hi> and Livings, or <hi>Iewiſh Tythes</hi> and Offerings: As for the <hi>Law of Tythes,</hi> it did ceaſe with the change of the <hi>Leviticall Preiſthood.</hi>
+                  <note n="e" place="margin">
+                     <hi>Heb.</hi> 11.</note> It is therefore humbly deſired that the Land and revenewes of the <hi>Prelates</hi> and <hi>Cleargie</hi> yet remaining, may now by this <hi>Parliament</hi>
+                  <note n="f" place="margin">2 <hi>Co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 31. <hi>D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 17.1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 19.20. <hi>Eſa.</hi> 19 23. <hi>Pſ.</hi> 3.4. <hi>Ez</hi> 20.4, 5 <hi>Pro.</hi> 3 10. <hi>Rev</hi> 17.1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> be taken away and con<g ref="char:EOLhyphen"/>verted to better uſe. As thoſe of the <hi>Abbyes</hi> &amp; <hi>Nunneries</hi> have beene by for<g ref="char:EOLhyphen"/>mer <hi>Parliaments:</hi> Their originall beeing one and the ſame.</p>
+               <p>And further it is deſired, that not the diſtinction alone of <hi>Deanes, Arch<g ref="char:EOLhyphen"/>deacons, Parſons, Vicars, and Readers</hi> be taken away, but their offices and pla<g ref="char:EOLhyphen"/>ces alſo:<note n="g" place="margin">
+                     <hi>Rev</hi> 11.18.14.8.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 10.12 16.10 <hi>&amp;</hi> 17.18. <hi>&amp; Chap.</hi> 2 <hi>Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 3.8.</note> in regard they are not elected, called, or ordained, according to Gods Word; but their entrance into the Miniſtery is by a Popiſh and un<g ref="char:EOLhyphen"/>lawfull vocation, ſtrange from the Scriptures, and never heard off in the primitive Church.</p>
+               <p n="10">10. No doubt but it is the office &amp; duetie of this preſent <hi>Parliament,</hi> to cheriſh and protect the true miniſters of Chriſt;<note n="h" place="margin">
+                     <hi>Eſa.</hi> 23. <hi>&amp;</hi> 3 10.12. <hi>D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 17.14 19, 20 <hi>Pſ,</hi> 2, 11.12 72, <hi>&amp;</hi>
+                  </note> and on the other hand to ſuppreſſe and root out by their authori<g ref="char:EOLhyphen"/>ty all falſe Miniſters, and unlawfull Ec<g ref="char:EOLhyphen"/>cleſiaſticall functions whatſoever.<note n="i" place="margin">2 C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 29, <hi>&amp; chap,</hi>
+                  </note>
+               </p>
+               <p>Therefore our humble Requeſt is, that all <hi>Popiſh Offices, entrance, admini<g ref="char:EOLhyphen"/>ſtration, and maintenance,</hi> with their Names, Titles, and Priviledges, may be now aboliſhed, and that every Chri<g ref="char:EOLhyphen"/>ſtian Congregation may have freedome to enjoy the publick ordinarie mi<g ref="char:EOLhyphen"/>niſtery of <hi>Pastors,</hi>
+                  <note n="k" place="margin">Act. 17. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Rom,</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 7, 8 <hi>&amp;</hi>
+                  </note> 
+                  <hi>Teachers, Elders, Deacons, and Helpers;</hi> as thoſe onely which Chriſt hath appointed in his Teſtament, for the feeding, governing, and building up of his Church. And as every Congregation hath power<note n="l" place="margin">
+                     <hi>Act.</hi> 5. <hi>&amp;</hi> 23. <hi>&amp;</hi> 22.2 <hi>with</hi> 1.15.</note> in Chriſt to take unto themſelves meet and ſufficient men into thoſe offices, ſo (the <hi>Hierarchie, and their dependant Offices beeing all unlawfull and Anti<g ref="char:EOLhyphen"/>chriſtian, in the height of juriſdiction and place be taken away,)</hi> an <hi>act of Par<g ref="char:EOLhyphen"/>liament</hi> be made, that from henceforth theſe true Miniſters which are too much vilified, ſhall have more honour &amp; reſpect then heretofore.</p>
+               <pb facs="tcp:124564:7"/>
+               <p n="11">11. Howſoever the Papiſts doe place the <hi>power of the Keyes</hi> in the <hi>Pope,</hi> the Proteſtants in the <hi>Biſhops,</hi> and the Reformed Churches in the <hi>Presbytery, Claſſes, and Synods:</hi> notwithſtanding ac<g ref="char:EOLhyphen"/>cording to the <hi>Apostolick institution,</hi> every particular Congregation<note n="m" place="margin">1 <hi>Co</hi> 5.4.11.12, 13. <hi>&amp; Mat.</hi> 18.17. 1 <hi>Cor.</hi> 16.3, 2 <hi>Cor.</hi> 8.19. <hi>Act.</hi> 18.23. <hi>&amp;</hi> 15.23. <hi>&amp;</hi> 18.22.</note> hath power in and for it ſelfe immediately from Chriſt, to exerciſe <hi>Eccleſiaſticall go<g ref="char:EOLhyphen"/>vernment,</hi> and all other religions Ordi<g ref="char:EOLhyphen"/>nances: So that the <hi>power of Excommu<g ref="char:EOLhyphen"/>nication</hi> is in the body of the Church, whereof the parties that are to bee caſt out, are members. And ſo farre is the <hi>power of Eccleſiasticall K<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yes from belon<g ref="char:EOLhyphen"/>ging ſolelie to Biſhops and Ministers,</hi> as that they themſelves ſtand under it. For the Congregation, which did elect and ordaine them, may (if the cauſe ſo require) depoſe them from the M niſtery they exerciſe;<note n="n" place="margin">1 <hi>Tim.</hi> 3, 10. <hi>&amp;</hi> 5, 22. <hi>Rom.</hi> 16.16. <hi>Phil.</hi> 3, 2. 1 <hi>Tim.</hi> 6.3, 5. <hi>Eze.</hi> 44, 12.13 <hi>Mat.</hi> 18.16.</note> and if they remain obſtinate and impenitent, orderly cut them off by <hi>Excommunication.</hi> And this is a truth, ſo cleare and manifeſt, viz. that according to the ancient conſtitution of the primitive Church, the <hi>power of he eccleſiasticall Keyes</hi> is gi<g ref="char:EOLhyphen"/>ven to the whole body of every Chriſtian Congregation,<note n="o" place="margin">
+                     <hi>Pſ.</hi> 122.3. <hi>Act.</hi> 2.47. <hi>Rom.</hi> 16.2. <hi>Mat.</hi> 18.17. 1 <hi>Cor.</hi> 5.4. <hi>&amp;c.</hi>
+                  </note> (and not to any member apart,, or to more members ſequeſtred from the whole, or to any other Congregation to doe it for them.) As that the learned on all ſides, as <hi>Papists, Lutherans, Calviniſts, Conformiſts, Non-Conformists, ancient Writers,</hi> with the <hi>publick Confeſſion of all the Reformed Churches</hi> (what ever their practice be) give Teſtimony hereto, as we have it in our hands to ſhew, if the <hi>Parliament</hi> be pleaſed to call for it.</p>
+               <p n="12">12. That there ought to be no <hi>Na<g ref="char:EOLhyphen"/>tionall, Provintiall, or Dioceſian Biſhops,</hi> wee have ſhewed before: neither are Churches to be made by the bounds and limits of <hi>Pariſhes,</hi> (for that is an ordi<g ref="char:EOLhyphen"/>nance of man, even the <hi>man of ſin,</hi> and contrary to the faith and order of the Goſpel) but to conſiſt of a company of people called and ſeparated from the world by the Word of God,<note n="p" place="margin">
+                     <hi>Act.</hi> 2.39. <hi>&amp;</hi> 19.9. <hi>Rom.</hi> 1.6.7. <hi>&amp;</hi> 10 14, <hi>&amp;c.</hi>
+                  </note> and joyned together by voluntary profeſſion of the faith of Chriſt in the fel<g ref="char:EOLhyphen"/>lowſhip and practice of the Goſpel: and therefore no drunkards, no whoremongers, no prophane perſons: at leaſt, which are known, may be received, retained or compelled to be members in the Church of Chriſt,<note n="q" place="margin">
+                     <hi>Mat.</hi> 3.7. 2 <hi>Cor.</hi> 6.14. <hi>Rev.</hi> 21. <hi>ult. num.</hi> 15, 27, <hi>&amp;</hi> 22, 15. <hi>Eſa.</hi> 35.8 9, <hi>&amp;c.</hi>
+                  </note> which is his body, whereof he is head, and his temple wherein hee dwel<g ref="char:EOLhyphen"/>leth
+<pb facs="tcp:124564:8"/> by his Spirit: but the <hi>Houſe of God</hi> muſt be kept as neare as it is poſſible, free and cleane from all polutions and prophanations whatſo<g ref="char:EOLhyphen"/>ever. And to <hi>this Church</hi> Chriſt hath given his <hi>power</hi> to chuſe and call into office among themſelves, ſuch as are fit, without going to <hi>Synods or Biſhops, with Preſentations</hi> of any, for that is but a <hi>humane device,</hi> and therefore by the <hi>Parliament</hi> not to be tolerated.</p>
+               <p n="13">13. <hi>That in ſtead of Lay Elders to ſit in Nationall and Provintiall Synods,</hi> (an office that hath no root in Chriſts Te<g ref="char:EOLhyphen"/>ſtament) let it be appointed by the <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> that every Chriſtian Congre<g ref="char:EOLhyphen"/>gation ſhall have free liberty to elect and ordaine (as the Word requireth) <hi>Go<g ref="char:EOLhyphen"/>vernours, or ruling Elders:</hi>
+                  <note n="r" place="margin">
+                     <hi>Act.</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 28. <hi>R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 12.8. <hi>Phil.</hi> 1. 1 <hi>Tim.</hi> 17. <hi>Ep<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 11.12. 1 <hi>Cor.</hi> 28. <hi>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 12.24, 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Exod.</hi> 3<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 42. <hi>De<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 1.13.</note> being men of life unreproveable, ſober, gentle, loving, temperate: men of wiſedome, know<g ref="char:EOLhyphen"/>ledge, and ſound judgement: <hi>that may ſit in the Church,</hi> to ſee the Congre<g ref="char:EOLhyphen"/>gation holily and quietly ordered, diſcerne between cauſe and cauſe, plea and plea, and accordingly prevent and redreſſe evils.</p>
+               <p n="14">14. A better courſe cannot be taken for providing for the poore, then that the <hi>Ordinance of the Goſpel</hi> be obſerved: which is, that <hi>Deacons</hi> be choſen in eve<g ref="char:EOLhyphen"/>ry Congregation<note n="ſ" place="margin">
+                     <hi>Act.</hi> 6. 1 <hi>Tim,</hi> 8.9. <hi>Ro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 12.8. 1 <hi>Cor.</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 28. <hi>Ph<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 1.1.</note> being men of honeſt report, grave, temperate, not given to exceſſe, nor to filthy lucre; let theſe gather and collect by the ordinance of the Church, the goods and benevolence of the faithfull, and faithfully diſtribute the ſame according to the neceſſity of the Saints,</p>
+               <p>For <hi>Church-wardens, Side-men,</hi> and <hi>Collectours,</hi> their offices are unlaw<g ref="char:EOLhyphen"/>full and hurtfull: unlawfull becauſe they are counterfeits of Gods true Officers, namely, <hi>Elders and Deacons,</hi> alſo retaine the marke of the Beaſt in part, as fictions deviſed by men, and comming from <hi>Rome;</hi> hurtfull, becauſe they are bound to moſt unlawfull conditions, for neceſſarily either they muſt be perjured, or ſin groſly; as to preſent both Miniſter and people, if they be not ſuperſtitious and prophane: and thus they ſerve the tyranny of the <hi>Hierarchie,</hi> and miniſter matter of filthy lucre to the <hi>Harpies</hi> of the <hi>Prelates Courts,</hi> in ſo much that the more honeſt and better ſort, avoide ſuch pla<g ref="char:EOLhyphen"/>ces, as knowing they cannot exſpect any bleſſing or protection from God therein.</p>
+               <pb facs="tcp:124564:8"/>
+               <p n="15">15 Touching <hi>buriall of the dead,</hi>
+                  <note n="a" place="margin">
+                     <hi>Gen,</hi> 23, 3, 4, 5, 9, 17, 18, 9, <hi>&amp;</hi> 29, 21, 22, <hi>&amp;</hi> 44 45. <hi>Luke</hi> 9, 60.</note> it is <hi>no branch of a Miniſters calling,</hi> nor doth any <hi>Church dutie</hi> belong unto it. For all praiers, either over, or for the dead, are ſuperſtitious and vaine no ſuch thing was uſed in the <hi>Apostles time:</hi> neither do the <hi>Reformed Churches</hi> pra<g ref="char:EOLhyphen"/>ctiſe the ſame. The like may be ſaid of the <hi>celebration of mariage;</hi>
+                  <note n="b" place="margin">
+                     <hi>Gen,</hi> 2, 2 23. <hi>Ruth</hi> 4, 1, 2, 9, 10, 12, 13. <hi>Ioh,</hi> 2, 1, 2, 3. <hi>Heb,</hi> 13.14.</note> it is no <hi>Ec<g ref="char:EOLhyphen"/>cleſiasticall action</hi> appertaining to the Miniſtery, but civill, and ſo to be per<g ref="char:EOLhyphen"/>formed. For <hi>Baptiſme</hi> as it is an ordinance of God: ſo it is humbly deſired that it may be purged from all childiſh and ſuperſtitious toyes: and that no infant be admitted unto <hi>Baptiſme,</hi> whoſe Parents (one at leaſt) are not members of ſome particular Church. For the <hi>viſiting of the ſick,</hi> ſeeing the <hi>preſcript ſervice of it</hi> is taken out of the <hi>Maſſe-booke,</hi> we truſt the <hi>Par<g ref="char:EOLhyphen"/>liament</hi> will take courſe to have the ſame ſuppreſſed. That ſo as it is Gods will we ſhould viſit the ſick, ſo we may do both his will, and worke in his own way.</p>
+               <p n="16">16. For <hi>ſpirituall Courts</hi> ſo called, they are humane deviſes,<note n="c" place="margin">
+                     <hi>Matth,</hi> 28, 20. <hi>with</hi> 6, 24 <hi>Ioh,</hi> 3, 35, 36, <hi>&amp;</hi> 10, 4, 5, <hi>&amp;</hi> 15 14, <hi>Rom,</hi> 6, 16. 2 <hi>Theſ,</hi> 2, 3, 4, 8, <hi>Gal,</hi> 1, 8, <hi>Rev,</hi> 14, 4 2, 12.</note> preſumptuous inſolencies, ſuch as were never planted by the <hi>Apoſtles</hi> in the <hi>Primitive Chur<g ref="char:EOLhyphen"/>ches,</hi> but long after erected by <hi>Antichriſt</hi> againſt God, and his <hi>Christ,</hi> to the great prejudice and hurt of his Church, and the lawfull <hi>juriſdiction</hi> thereof. And therefore it is humbly petitioned, that as muſt prophane things, they may be by this preſent <hi>Parliament</hi> all rooted out, and utterly overthrown, without hope of reſtitution.</p>
+               <p>Touching <hi>Citations by Synods and Presbyteries, with the knowledge of the Pariſh-minister, and his preſenting the delinquents, and having a voice in the Cenſure, &amp;c,</hi> This neither is to be found in the Word of God, and there<g ref="char:EOLhyphen"/>fore no Chriſtian man or woman is bound to ſubmit and yeeld obedience unto it. The rule of Chriſt <hi>for cenſuring delinquents,</hi> is (as we have decla<g ref="char:EOLhyphen"/>red) that the ſentence and judgement of Chriſt bee given by the whole Church, whereof the parties are members, provided it be executed in a due manner; namely for ſin, and that alſo duely convicted, and obſtinately ſtood in.</p>
+               <pb facs="tcp:124564:9"/>
+               <p n="17">17. Our humble ſuit is, that it would pleaſe his Majeſtie, and this pre<g ref="char:EOLhyphen"/>ſent <hi>Parliament,</hi> that we may be ſuffered to live here in peace<note n="d" place="margin">
+                     <hi>Pſ.</hi> 41<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 1. <hi>Pro,</hi> 3 8, 9. <hi>Ez<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 6, 7. <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> 6, 10, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 2 <hi>Chron</hi> 19, 10. <hi>Pſal,</hi> 82 3, 4.</note>, profeſſing and practiſing the truth of the Goſpell, without moleſtation, either of <hi>Biſhops,</hi> or any other, to impoſe what they pleaſe upon our conſciences, with ſuch <hi>rigorous penalties,</hi> as they have lately uſed: we carrying our ſelves as loyall Subjects, and leaving the ſuppreſſing, abo<g ref="char:EOLhyphen"/>liſhing, or reforming of the abuſes that we witneſſe againſt, to his <hi>Maje<g ref="char:EOLhyphen"/>sties</hi> and your diſcretion.</p>
+               <p n="18">18. As it is very meet that all <hi>Schools</hi> and <hi>Academies</hi> be purged from ſuperſti<g ref="char:EOLhyphen"/>tious rites,<note n="e" place="margin">
+                     <hi>Pſ,</hi> 11<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 9, 99, 10<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 1 <hi>Sam,</hi> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 9, 10, 2 <hi>Kin,</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 3, 4, 5. <hi>Mat,</hi> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 51, 52.</note> and Popiſh doctrines, and Orthodox Readers be provided: ſo in ſpeciall, that <hi>Popiſh degrees</hi> in <hi>Theologie,</hi> inforcement to ſingle life<note n="f" place="margin">
+                     <hi>Heb,</hi> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 4, 1 <hi>Tim,</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 2.</note> in Colleges, abuſe of the ſtudy of prophane Heathen Writers, with other like corrupt<g ref="char:EOLhyphen"/>ions ſhould be removed and redreſſed, that ſo they may be the Wel-ſpring and Nurſeries of true learning and godlineſſe.</p>
+            </div>
+         </div>
+         <div type="postscript">
+            <head>POST-SCRIPT.</head>
+            <p>THat we be not miſ-underſtood touching Provintiall and Nationall <hi>Synods;</hi> As if we ſhould condemne all uſe thereof: we have thought good to ſpeak a word or two, more fully in the thing. As to ſhew out of Antiquity how ancient they are: and what were the cauſes and grounds of their erection at the firſt: how far they are lawfull and ne<g ref="char:EOLhyphen"/>ceſſary in the Churches of Chriſt. And when and how they came to be abu<g ref="char:EOLhyphen"/>ſed. And this we will do in a very briefe way: leaving a larger diſcourſe till a more convenient time. That there were no <hi>Synods</hi> (according to the acceptation of the Word now amongſt us) all the time that the Apoſtles lived here upon the earth, but every particular Congregation practiſed in, and for it ſelfe all the ordinances of God: It cannot be denied without loſſe of credit both to perſon and cauſe of the denyer, in the eyes of all reaſon<g ref="char:EOLhyphen"/>able men<note n="a" place="margin">Whitgift againſt <hi>T. C.</hi> p. <hi>180. 181.</hi> Bil<g ref="char:EOLhyphen"/>ſon perpet. gover. cap. <hi>15,</hi> p. <hi>361.</hi> Sculting hier. anar. l. <hi>11.</hi> p. <hi>134</hi> Sutclif. di<g ref="char:EOLhyphen"/>ſcipl. c. <hi>8.</hi> p. <hi>353.</hi>
+               </note>. If we come down from thence to <hi>Trajans</hi> time, which was a<g ref="char:EOLhyphen"/>bout a 100. years after Chriſts Aſſention: we ſhal not finde in any approved Author,<note n="b" place="margin">Centur. Meydenb. cont. <hi>1.</hi> c. <hi>4</hi> cent. <hi>6. 7.</hi> col. <hi>591.</hi>
+               </note> ſo much as the name of any ſuch thing.</p>
+            <p>From <hi>Trajan</hi> paſſe we to <hi>Severus</hi> reigne,<note n="c" place="margin">Cent, <hi>2,</hi> c, <hi>7,</hi> p <hi>137 135,</hi> Brig, o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c, <hi>12</hi>
+               </note> which was about the yeare 195. and let the approved Auhours of that age be read, and it will appeare (as cleare as the Sun at noone day) that the order of government was ſtill <hi>popular<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Neither was there any <hi>ſuperiour Eccleſiasticall juriſdiction, above the independant power which every particular Church had in it ſelfe.</hi>
+            </p>
+            <pb facs="tcp:124564:9"/>
+            <p>Indeed between <hi>Severus</hi> and <hi>Conſtantines</hi> time, we read in <hi>Euſebius,</hi>
+               <note n="d" place="margin">
+                  <hi>Lib.</hi> 3. <hi>c.</hi> 22, <hi>&amp;</hi> 5. <hi>c.</hi> 16.</note> 
+               <hi>Irenaeus.</hi>
+               <note n="e" place="margin">
+                  <hi>l.</hi> 3. <hi>c.</hi> 1. 2, 3,</note> 
+               <hi>Nicephorus,</hi>
+               <note n="f" place="margin">
+                  <hi>l.</hi> 4, <hi>c.</hi> 23</note> and other:: that <hi>neighbour Miniſters came often together to confer of things ſerving for the generall good.</hi> But here let it be noted: 1. This they did of liberty, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd not of d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, as if obliedged thereunto by any law of God.<note n="g" place="margin">Zippe<g ref="char:EOLhyphen"/>rus, l. <hi>3.</hi> c. <hi>7,</hi>
+               </note> .2 It was a free for any of the brethren to be preſent, as for the officers.<note n="h" place="margin">Cyp. i, <hi>1</hi> Epist. <hi>4.</hi>
+               </note> 3. Whatſoever they did at ſuch meetings, the ſame was of no force at all, as to be counted <hi>a Church <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct or ſentence,</hi> untill the whole Congregation firſt knew of it, and gave their free conſent unto the ſame.<note n="i" place="margin">Gregor, Nazia. in orat. fun. de Patr.</note>
+            </p>
+            <p>This ancient comming together of Miniſters and Brethren (call ye it a <hi>Synod</hi> or <hi>Convocation,</hi> or what you will) we hold both lawfull and neceſſary, the better to pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erve peace<note n="k" place="margin">Parker Eccl. pol. pu. <hi>329. 330.</hi>
+               </note> with holineſſe, and when any dangerous errours are broached, for to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uppreſſe them. But at theſe meetings of Miniſters of ſundry Churches, they medled <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot with <hi>Excommunication,</hi>
+               <note n="l" place="margin">Ignat. ad Philad. ad mag. Tral, Tertu. A<g ref="char:EOLhyphen"/>pol. c. <hi>20.</hi> Atha. Ep, in perſ. ad orthod. &amp; Ep. ad So<g ref="char:EOLhyphen"/>li. vit, deg. &amp; Ep. con. Nicae. c. <hi>9</hi> Eccl. hist, Baſ. Epi. <hi>58</hi> ad Eli<g ref="char:EOLhyphen"/>tiu<g ref="char:cmbAbbrStroke">̄</g>. Theo. l. <hi>1.</hi> c. <hi>19,</hi>
+               </note> 
+               <hi>election, and ordination of Church officers:</hi> for all ſuch <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hings they left as peculiar adminiſtrations to every particular Church: onely if there were Hereſies broached,<note n="‡" place="margin">
+                  <hi>Cent.</hi> 2. <hi>c.</hi> 9, <hi>p.</hi> 159 160. 161</note> or ſome weightie point to be determined, every one <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave his judgement and advice, and afterwards ſignified what was done to the Chur<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hes, who had ſtill their liberty to receive, or reject what was before concluded.</p>
+            <p>And thus for the ſpace of 200 or 300 years (as <hi>Brightman</hi>
+               <note n="m" place="margin">on Rev. cha. <hi>12.</hi> p. <hi>505. 506.</hi> edit. <hi>3.</hi>
+               </note>, <hi>Iacob</hi>
+               <note n="n" place="margin">neceſ. Reſor. p. <hi>57,</hi> &amp;c.</note>, and o<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hers, have well obſerved) the <hi>Primitive purity of Church government was not destroyed:</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>either had Satan as yet brought in <hi>Prelaticall</hi> and <hi>Synod<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll</hi> pride into the Sheepfold of the Lord: but every Congregation was free, and ſubject to no other Eccleſiaſti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all juriſdiction, then unto that which was within it ſelfe.</p>
+            <p>Indeed about <hi>Conſtantines</hi> time, and after; as <hi>Cyprian</hi>
+               <note n="o" place="margin">Epiſt. de lapſis, l. <hi>4,</hi> c. <hi>4.</hi>
+               </note>, <hi>Euſaebius</hi>
+               <note n="p" place="margin">
+                  <hi>l.</hi> 8. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1.</note>, and <hi>Am<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>roſe</hi>
+               <note n="q" place="margin">Com. in <hi>1</hi> Tim. <hi>5.</hi>
+               </note> teſtifie: and which is alſo affirmed by <hi>Caſaubon</hi>
+               <note n="r" place="margin">ad Card. Peron, obſ. <hi>4.</hi> p. <hi>30. 31.</hi>
+               </note>, <hi>Whitaker</hi>
+               <note n="ſ" place="margin">de Rom. pont. cont. <hi>4.</hi> p. <hi>5.</hi>
+               </note>, <hi>Mornaeus</hi>
+               <note n="t" place="margin">H<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>op, p. <hi>37. 38.</hi>
+               </note>, <hi>Brightman,</hi>
+               <note n="u" place="margin">Apoc. c, <hi>2,</hi> p, <hi>67.</hi>
+               </note> and others. Men began to deviſe a new order and manner of gover<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing Churches, as they thought fitteſt to agree with the times, and took away by lit<g ref="char:EOLhyphen"/>tle and little, the <hi>independant power</hi> and government of particular Churches. And had now their <hi>Councils</hi> and <hi>Synods</hi> to make what <hi>Canons</hi> and Laws they liſted, impoſing the ſame <hi>(nolens volens)</hi> upon all Congregations, not permitting the people to have a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y hand in the election of Miniſters, excommunication, and the like<note n="x" place="margin">See Beza in reſ. ad tract. de minst. Evan. de grad. c. <hi>22.</hi> f. <hi>154. 155.</hi> Synod, Laod. can, <hi>13.</hi>
+               </note>. And how<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oever the government left by the <hi>Apostles</hi> to the Churches, was rejected, under pretence to preſerve the unitie and peace of the Church<note n="y" place="margin">Duaraen. diſt. <hi>8.</hi>
+               </note>, and for the avoiding of ſchiſmes<note n="a" place="margin">Field of the Church, l. <hi>3.</hi> p. <hi>157. 158.</hi> &amp; de viſib. non. <hi>l. 5.</hi> c, <hi>4.</hi>
+               </note>, factions, and for the unrulineſſe of the people<note n="b" place="margin">Scvlting hierarch, anar, l, <hi>11,</hi> p, <hi>134.</hi>
+               </note>, and to prevent other evils; yet whoſoever will juditiouſly read the impartiall Writers of that age, hee ſhall finde that the corrupting at firſt of <hi>Church government,</hi> was principally through the pride<note n="c" place="margin">Greg, l, <hi>4,</hi> Epi, <hi>38.</hi>
+               </note> and ambition of the Miniſters, for beginning now to have ſome out<g ref="char:EOLhyphen"/>ward ſtate and meanes in the world, thought it a diſparagement, that the Bretheren ſhould be equall with them in the affaires of the Church:<note n="d" place="margin">Chryſost. in Mat, hom, <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>4,</hi> Hieron, in Epi, ad Gal, cvp, <hi>4.</hi>
+               </note> Much leſſe could they
+<pb facs="tcp:124564:10"/> any longer indure to be under their admonitions and cenſures, how diſorderly ſoe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they walked.</p>
+            <p>Adde to this another cauſe: <hi>viz.</hi> the negligence<note place="margin">Hieron. n Eſa. l. <hi>6</hi> c. <hi>30.</hi>
+               </note> and idleneſſe of the people, alſo the number of unfit members which were daily received, ſuch as<note n="f" place="margin">Chryſ. in opere im<g ref="char:EOLhyphen"/>perfect. hom. <hi>44.</hi>
+               </note> knew <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> what their liberty in the Goſpell was: beſides about this time the <hi>civill Magistrat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> joynes with the Innovatours and corrupters of Church government, and under di<g ref="char:EOLunhyphen"/>vers threatnings, and ſevere penalties, commandeth every one to yeeld and conform themſelves to the ſinfull devices of their NEW MASTERS.</p>
+            <p>Having thus briefly declared, what was the <hi>diſcipline</hi> planted by the <hi>Apostoli<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> institution,</hi>
+               <note n="g" place="margin">See Cen. <hi>5.</hi> ca. <hi>9.</hi> de Synodis.</note> in all Chriſtian Congregations at firſt, we have now onely a word more to ſpeake to the <hi>Parliament,</hi> being in hand at this preſent time, with the <hi>reforming of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Church of England.</hi>
+            </p>
+            <p>Wiſe Polititians in their inſtitutions of Government, do hold for an infallible <hi>m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ime,</hi> that for to reforme abuſes and corruptions in States, a better courſe cannot be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ken, then to reduce things to their primitive originall. For as one truely ſaith,<note n="h" place="margin">Field of the Church l, <hi>2.</hi> p. <hi>49.</hi>
+               </note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>firſt in any kinde or ſort of things is truest and best,</hi>
+            </p>
+            <p>Now our humble requeſt is, that leaving the MOTIONS of mens braine, you w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> looke backe to the Churches of the <hi>Apoſtolique institution,</hi> and from them take yo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> patterne and platforme to walke by, for ſo God teacheth<note n="i" place="margin">
+                  <hi>Mat.</hi> 28 20. <hi>Act.</hi> 1 3. 2 <hi>Tim.</hi> 1.13. <hi>Heb.</hi> 3.5.</note> you to do. And it is i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>deed the <hi>golden reed,</hi>
+               <note n="k" place="margin">
+                  <hi>Rev,</hi> 11. 1. <hi>Eze.</hi> 41</note> which Chriſt now putteth into your hands: ſaying unto y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Riſe, and meaſure the Temple of God, and the Altar, and them that worſhip therein.</hi>
+            </p>
+            <p>
+               <hi>The authority of the Primitive Churches</hi> (ſaith <hi>Gerſon</hi>
+               <note n="l" place="margin">De vit, ſpirit,</note>) <hi>is above all Churches; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> therefore it is not in the power of Pope, Councill, or Church, to change the doctrines and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ditions delivered by the Apoſtles.</hi>
+            </p>
+            <p>
+               <hi>Brightman</hi>
+               <note n="m" place="margin">
+                  <hi>Cha.</hi> 2. <hi>pag.</hi> 65. <hi>edit.</hi> 3.</note> on the <hi>Revelation</hi> hath a ſingular paſſage to the ſame effect: T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>firſt Government of the Church</hi> (ſaith hee) <hi>is common to all times and places: and it is <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> permitted to be at the arbitriment of men to follow what way they liſt, but that alwaies i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>forming a Church, we muſt have recourſe to the firſt beginnings: to the which as our onely <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> we muſt call back whatſoever ſtrayeth from it: and that they are not to be turned and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> according to the crookedneſſe and jarring ſound of ſucceeding Churches.</hi>
+            </p>
+            <p>
+               <hi>Parker,</hi>
+               <note n="n" place="margin">Pol. eccl. l, <hi>1,</hi> ca. <hi>23.</hi> p. <hi>59.</hi> &amp; l. <hi>3,</hi> pag, <hi>95,</hi> &amp; <hi>30.</hi>
+               </note> in effect uſeth the very ſame expreſſion. So <hi>Cartwright,</hi>
+               <note n="o" place="margin">Repl. to Whitg, l, <hi>1</hi> p, <hi>25, 26.</hi>
+               </note> and <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>nolds,</hi>
+               <note n="p" place="margin">Confer. with Hart pag, <hi>195. 459.</hi>
+               </note> yea and ſome Biſhops too, as <hi>Iewell</hi>
+               <note n="q" place="margin">Defenc, Apol, par. <hi>6,</hi> chap, <hi>16,</hi> diviſ, <hi>2,</hi> p, <hi>762,</hi>
+               </note> and <hi>Bilſon.</hi>
+               <note n="r" place="margin">Perpet, Govern, p, <hi>3.</hi>
+               </note> And <hi>Hooker</hi>
+               <note n="ſ" place="margin">Eccleſ, pol, l, <hi>4,</hi> p, <hi>1</hi> Cont, Mart, lib, <hi>4,</hi> cap, <hi>5.</hi>
+               </note> gi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reaſon for it thus: <hi>the firſt ſtate of things was beſt, and therefore it muſt needs follow, cuſtomes, laws and ordinances, deviſed ſince, are not ſo good for the Church of Chriſt: b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> beſt way is to cut off later inventions, and to reduce things to the ancient ſtate wherein at <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> they were.</hi> And this agrees with <hi>Tertullians</hi> ſaying of old (with which we will end <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Petition) That is trueſt which is firſt, that is firſt which is from the beginning, that is fro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> beginning which is from the Apoſtles.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
